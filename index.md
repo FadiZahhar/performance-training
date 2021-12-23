@@ -238,25 +238,53 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 3. Web 101
+## 13. Design API Performance 
 
-### 1 In this section
-<iframe src="https://player.vimeo.com/video/658676152" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Design Environment
+<iframe src="https://player.vimeo.com/video/658854096" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 How HTTP works
-<iframe src="https://player.vimeo.com/video/658676286" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Init Framework
+<iframe src="https://player.vimeo.com/video/658854351" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Static HTML
-<iframe src="https://player.vimeo.com/video/658677026" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Define Options
+<iframe src="https://player.vimeo.com/video/658854505" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 PHP and friends
-<iframe src="https://player.vimeo.com/video/658678007" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Init Environment
+<iframe src="https://player.vimeo.com/video/658854630" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Modern MVC frameworks
-<iframe src="https://player.vimeo.com/video/658679109" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Understand Sample API and Workflow
+<iframe src="https://player.vimeo.com/video/658854770" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Javascript
-<iframe src="https://player.vimeo.com/video/658681386" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Create Course API - 1
+<iframe src="https://player.vimeo.com/video/658854902" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Create Course API - 2
+<iframe src="https://player.vimeo.com/video/658855052" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Create Course API - 3
+<iframe src="https://player.vimeo.com/video/658855264" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Get Course API
+<iframe src="https://player.vimeo.com/video/658855291" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Delete Course API
+<iframe src="https://player.vimeo.com/video/658855544" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 11 Write Test Script
+<iframe src="https://player.vimeo.com/video/658855693" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 12 Implement Logger
+<iframe src="https://player.vimeo.com/video/658855786" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 13 Execute Test Cases
+<iframe src="https://player.vimeo.com/video/658856035" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 14 Quick Walkthrough
+<iframe src="https://player.vimeo.com/video/658856179" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 15 CICD Pipeline
+<iframe src="https://player.vimeo.com/video/658856349" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 
 ## 4. Application discovery
