@@ -65,13 +65,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 4. Application discovery
+## 4. HTTP API
 
-### 1 Manual discovery
-<iframe src="https://player.vimeo.com/video/658682591" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Header and JSON
+<iframe src="https://player.vimeo.com/video/658732006" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Automated discovery
-<iframe src="https://player.vimeo.com/video/658684980" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Response Array
+<iframe src="https://player.vimeo.com/video/658732534" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Data Array
+<iframe src="https://player.vimeo.com/video/658732890" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Post Requests
+<iframe src="https://player.vimeo.com/video/658733303" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 5. Attacking session management
