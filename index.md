@@ -201,19 +201,41 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Environment setup
+## 12. Postman to K6 Performance 
 
-### 1 In this section
-<iframe src="https://player.vimeo.com/video/658672037" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Setup Realtime Project
+<iframe src="https://player.vimeo.com/video/658852586" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Setting up the target
-<iframe src="https://player.vimeo.com/video/658672578" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Understand Project
+<iframe src="https://player.vimeo.com/video/658852687" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Setting up Kali
-<iframe src="https://player.vimeo.com/video/658673499" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Developer Documentation
+<iframe src="https://player.vimeo.com/video/658852757" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Setting up the Burp Suite
-<iframe src="https://player.vimeo.com/video/658675197" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Setup Postman
+<iframe src="https://player.vimeo.com/video/658852847" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Postman to K6 Converter
+<iframe src="https://player.vimeo.com/video/658852895" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Understand Postman Issues
+<iframe src="https://player.vimeo.com/video/658852997" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Understand Realtime Workflow
+<iframe src="https://player.vimeo.com/video/658853116" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Fix Postman Scripts
+<iframe src="https://player.vimeo.com/video/658853228" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Understand Postman Converted Performance Scripts
+<iframe src="https://player.vimeo.com/video/658853680" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Assignment Solution
+<iframe src="https://player.vimeo.com/video/658853812" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 11 Understand Performance Defect
+<iframe src="https://player.vimeo.com/video/658853964" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 
 ## 3. Web 101
