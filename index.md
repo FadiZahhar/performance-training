@@ -117,25 +117,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 8. Attacking the client
+## 8. Fixed Rate per Second
 
-### 1 Reflected XSS
-<iframe src="https://player.vimeo.com/video/658700696" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 2 Stored XSS
-<iframe src="https://player.vimeo.com/video/658701797" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 HTTP header injection
-<iframe src="https://player.vimeo.com/video/658703037" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 Malicious URL redirection
-<iframe src="https://player.vimeo.com/video/658703746" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 Exploiting wrong content-type
-<iframe src="https://player.vimeo.com/video/658704647" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Mitigations
-<iframe src="https://player.vimeo.com/video/658705493" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Write RPS
+<iframe src="https://player.vimeo.com/video/658849762" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
