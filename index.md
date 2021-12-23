@@ -124,31 +124,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 9. Server side injections
+## 9. Design Dashboard
 
-### 1 Malicious file upload
-<iframe src="https://player.vimeo.com/video/658705912" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Configure Influxdb
+<iframe src="https://player.vimeo.com/video/658849881" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 LFI and RFI
-<iframe src="https://player.vimeo.com/video/658707132" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Configure Grafana
+<iframe src="https://player.vimeo.com/video/658849972" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 OS command injection
-<iframe src="https://player.vimeo.com/video/658708329" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 View Live Test results and Metrics
+<iframe src="https://player.vimeo.com/video/658850061" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 SQL injection
-<iframe src="https://player.vimeo.com/video/658709466" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 UNION Select Attack
-<iframe src="https://player.vimeo.com/video/658710919" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Blind SQL injection
-<iframe src="https://player.vimeo.com/video/658712108" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 7 Automating SQLi testing
-<iframe src="https://player.vimeo.com/video/658713325" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 8 Mitigations
-<iframe src="https://player.vimeo.com/video/658714764" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Understand Grafana Load Test Dashbaord
+<iframe src="https://player.vimeo.com/video/658850119" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
