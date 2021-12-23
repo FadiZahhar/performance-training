@@ -110,19 +110,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 7. Attacking authorization
+## 7. Test Life Cycle
 
-### 1 Authorization Intro
-<iframe src="https://player.vimeo.com/video/658697943" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Test Life Cycle
+<iframe src="https://player.vimeo.com/video/658736589" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Manipulating variables
-<iframe src="https://player.vimeo.com/video/658698744" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 Client side authentication
-<iframe src="https://player.vimeo.com/video/658699440" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 Mitigations
-<iframe src="https://player.vimeo.com/video/658700207" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 8. Attacking the client
