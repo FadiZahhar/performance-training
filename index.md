@@ -140,17 +140,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 10. The rest
+## 10. K6 and Amazon EC2
 
-### 1 Reporting
-<iframe src="https://player.vimeo.com/video/658715796" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Influxdb on EC2
+<iframe src="https://player.vimeo.com/video/658850219" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Checklist
-<iframe src="https://player.vimeo.com/video/658716178" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Grafana on EC2
+<iframe src="https://player.vimeo.com/video/658850273" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 What's next
-<iframe src="https://player.vimeo.com/video/658716305" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Link Influxdb and Grafana
+<iframe src="https://player.vimeo.com/video/658850333" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 4 K6 on EC2
+<iframe src="https://player.vimeo.com/video/658850378" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Execute Load Test on EC2
+<iframe src="https://player.vimeo.com/video/658850416" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 1. Warm up
