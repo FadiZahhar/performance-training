@@ -48,28 +48,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 3. Web 101
+## 3. Checks
 
-### 1 In this section
-<iframe src="https://player.vimeo.com/video/658676152" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Checks and Asserts
+<iframe src="https://player.vimeo.com/video/658729808" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 How HTTP works
-<iframe src="https://player.vimeo.com/video/658676286" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Multiple Checks
+<iframe src="https://player.vimeo.com/video/658730211" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Static HTML
-<iframe src="https://player.vimeo.com/video/658677026" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Error Rate
+<iframe src="https://player.vimeo.com/video/658730948" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 PHP and friends
-<iframe src="https://player.vimeo.com/video/658678007" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Recap Checks
+<iframe src="https://player.vimeo.com/video/658731715" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Modern MVC frameworks
-<iframe src="https://player.vimeo.com/video/658679109" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Javascript
-<iframe src="https://player.vimeo.com/video/658681386" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Javascript
-<iframe src="https://player.vimeo.com/video/658681386" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 4. Application discovery
