@@ -23,19 +23,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Environment setup
+## 2. Design K6 Performance Test 
 
-### 1 In this section
-<iframe src="https://player.vimeo.com/video/658672037" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Write Load Test Case in JavaScript
+<iframe src="https://player.vimeo.com/video/658728788" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Setting up the target
-<iframe src="https://player.vimeo.com/video/658672578" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Random Shots
+<iframe src="https://player.vimeo.com/video/658728899" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Setting up Kali
-<iframe src="https://player.vimeo.com/video/658673499" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Load Virtual Users
+<iframe src="https://player.vimeo.com/video/658728946" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Setting up the Burp Suite
-<iframe src="https://player.vimeo.com/video/658675197" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Configure Virtual Users
+<iframe src="https://player.vimeo.com/video/658729159" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Ramp-up Ramp-down User Load
+<iframe src="https://player.vimeo.com/video/658729340" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Random Shots Rampup
+<iframe src="https://player.vimeo.com/video/658729636" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Recap Virtual Users
+<iframe src="https://player.vimeo.com/video/658729751" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 
 ## 3. Web 101
@@ -54,6 +64,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 5 Modern MVC frameworks
 <iframe src="https://player.vimeo.com/video/658679109" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Javascript
+<iframe src="https://player.vimeo.com/video/658681386" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### 6 Javascript
 <iframe src="https://player.vimeo.com/video/658681386" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
