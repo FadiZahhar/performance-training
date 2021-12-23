@@ -158,16 +158,46 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/658850416" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## 1. Warm up
+## 11. K6 Cloud
 
-### 1 Introduction
-<iframe src="https://player.vimeo.com/video/658669651" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 K6 Cloud
+<iframe src="https://player.vimeo.com/video/658850454" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Disclaimer
-<iframe src="https://player.vimeo.com/video/658670516" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Write Script to interact with Cloud
+<iframe src="https://player.vimeo.com/video/658850524" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Methodology
-<iframe src="https://player.vimeo.com/video/658670896" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Groups
+<iframe src="https://player.vimeo.com/video/658850835" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Threshold on Groups
+<iframe src="https://player.vimeo.com/video/658850941" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Tag
+<iframe src="https://player.vimeo.com/video/658851128" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Threshold on Tag
+<iframe src="https://player.vimeo.com/video/658851305" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Cloud Dashboard for Tag
+<iframe src="https://player.vimeo.com/video/658851466" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Groups and Tag on Cloud
+<iframe src="https://player.vimeo.com/video/658851658" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Geographic Regions Virtual Users
+<iframe src="https://player.vimeo.com/video/658851716" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Cloud Interface
+<iframe src="https://player.vimeo.com/video/658851973" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 11 Code Recap
+<iframe src="https://player.vimeo.com/video/658852144" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 12 Dashboard Recap
+<iframe src="https://player.vimeo.com/video/658852332" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 13 Browser Recorder
+<iframe src="https://player.vimeo.com/video/658852519" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
