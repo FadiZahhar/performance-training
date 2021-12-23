@@ -100,31 +100,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 6. Attacking authentication
+## 6. Threshold
 
-### 1 SSLTLS
-<iframe src="https://player.vimeo.com/video/658691512" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Basics of Threshold
+<iframe src="https://player.vimeo.com/video/658735576" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Authentication bypass
-<iframe src="https://player.vimeo.com/video/658693492" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 Unauthenticated URL access
-<iframe src="https://player.vimeo.com/video/658694110" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 Password quality
-<iframe src="https://player.vimeo.com/video/658694931" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 Password brute force
-<iframe src="https://player.vimeo.com/video/658695394" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Default accounts
-<iframe src="https://player.vimeo.com/video/658696108" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 7 Weak password recovery
-<iframe src="https://player.vimeo.com/video/658696585" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 8 Mitigations
-<iframe src="https://player.vimeo.com/video/658697615" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Threshold on Checks
+<iframe src="https://player.vimeo.com/video/658736108" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
