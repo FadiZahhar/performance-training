@@ -299,26 +299,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/658856969" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## 5. Attacking session management
+## 15. Scenarios
 
-### 1 Session management intro
-<iframe src="https://player.vimeo.com/video/658686647" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Execute Multiple Test Cases
+<iframe src="https://player.vimeo.com/video/658857095" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Session fixation
-<iframe src="https://player.vimeo.com/video/658687540" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Scenarios
+<iframe src="https://player.vimeo.com/video/658857205" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Weak logout
-<iframe src="https://player.vimeo.com/video/658688602" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Scenarios Configuration
+<iframe src="https://player.vimeo.com/video/658857251" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Same origin policy
-<iframe src="https://player.vimeo.com/video/658689082" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 CSRF
-<iframe src="https://player.vimeo.com/video/658689605" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Securing the session
-<iframe src="https://player.vimeo.com/video/658690951" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+### 4 Constant Virtual User Executor
+<iframe src="https://player.vimeo.com/video/658857396" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 6. Attacking authentication
