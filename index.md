@@ -287,13 +287,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 4. Application discovery
+## 14. Random Shots
 
-### 1 Manual discovery
-<iframe src="https://player.vimeo.com/video/658682591" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Runner
+<iframe src="https://player.vimeo.com/video/658856624" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Automated discovery
-<iframe src="https://player.vimeo.com/video/658684980" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Performance Overhead
+<iframe src="https://player.vimeo.com/video/658856797" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Debug Script
+<iframe src="https://player.vimeo.com/video/658856969" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 5. Attacking session management
