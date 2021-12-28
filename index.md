@@ -314,47 +314,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/658857396" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## 6. Attacking authentication
+## 16. Auto-generate K6 test
 
-### 1 SSLTLS
-<iframe src="https://player.vimeo.com/video/658691512" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Basics
+<iframe src="https://player.vimeo.com/video/658857859" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Authentication bypass
-<iframe src="https://player.vimeo.com/video/658693492" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 HAR
+<iframe src="https://player.vimeo.com/video/658858021" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Unauthenticated URL access
-<iframe src="https://player.vimeo.com/video/658694110" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Auto-generate K6 Test Case
+<iframe src="https://player.vimeo.com/video/658858181" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Password quality
-<iframe src="https://player.vimeo.com/video/658694931" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 Password brute force
-<iframe src="https://player.vimeo.com/video/658695394" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Default accounts
-<iframe src="https://player.vimeo.com/video/658696108" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 7 Weak password recovery
-<iframe src="https://player.vimeo.com/video/658696585" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 8 Mitigations
-<iframe src="https://player.vimeo.com/video/658697615" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
-
-## 7. Attacking authorization
-
-### 1 Authorization Intro
-<iframe src="https://player.vimeo.com/video/658697943" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 2 Manipulating variables
-<iframe src="https://player.vimeo.com/video/658698744" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 Client side authentication
-<iframe src="https://player.vimeo.com/video/658699440" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 Mitigations
-<iframe src="https://player.vimeo.com/video/658700207" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Fixes
+<iframe src="https://player.vimeo.com/video/658858365" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
